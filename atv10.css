@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+div{
+background-color: rgb(0, 247, 255);
+}
+h1{
+    color: rgb(0, 29, 29);
+}
+p{
+    color: rgb(3, 43, 44);
+    font-family: arial;
+    font-size: 15px;
+}
+h2{
+    color: rgb(0, 44, 44);
+    font-family: arial;
+}
