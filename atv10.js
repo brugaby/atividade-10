@@ -1,0 +1,5 @@
+const antigadiv=document.queryselector (heater)
+antigadiv.insertadjacentHTML('beforebegin','<h1 class="h1_class">gatinhos</h1>')
+const pipipi= document.querySelector (main)
+pipipi.insertadjacentHTML('afterbegin','<h2 div="pipipi2">pato</h2>')
+pipipi.insertadjacentHTML('beforeend','<p div="pipipi2>sapo</p>')
